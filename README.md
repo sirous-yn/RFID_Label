@@ -121,7 +121,7 @@ Use the actual device path and media type for that computer/printer. The
 printer user must have permission to access the device. On Ubuntu systems where
 the device belongs to group `lp`, an administrator can add the current user via
 `sudo usermod -aG lp "$USER"`; log out and back in for group membership to take
- effect. If the device permissions are managed differently on that machine,
+effect. If the device permissions are managed differently on that machine,
 follow that distribution's USB printer permission configuration. See
 `TROUBLESHOOTING.md` for USB detection, permission checks, and recovery steps.
 
